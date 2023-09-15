@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ashish kumar</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h2 align="left">Hi, I'm Ashish kumar</h2>
+<p align="left">A passionate Web developer from India<p>
+
+<h1>Tech Stack</h1>
 
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
